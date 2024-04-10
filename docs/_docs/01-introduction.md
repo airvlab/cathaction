@@ -1,40 +1,46 @@
 ---
 title: "Introduction"
 permalink: /docs/introduction/
-excerpt: "Large-scale dataset for grasp detection."
+excerpt: "CathAction-A Benchmark for Endovascular Intervention Understanding."
 redirect_from:
   - /theme-setup/
 toc: true
 ---
-Welcome to Grasp-Anything project! We tackle grasp detection by utilizing foundation models. Our project represents a <strong>data centric</strong> approach for grasp detection.
+Welcome to Endovascular Intervention CathAction project! We present CathAction, a <strong>large-scale<strong> dataset for endovascular intervention
+
+<p align="center">
+  <img src="../../assets/images/TMI_intro.png" alt="samples" style="width: 100%;" />
+</p>
+
+## Data collection setup
+<p align="center">
+  <img src="../../assets/images/TMI_datasetup.png" alt="data_pipeline" style="width: 100%;" />
+</p>
+
+The data collection setup with human silicon phantoms in the operating room
 
 ## Dataset Comparison
 <p align="center">
-  <img src="../../assets/images/intro-dataset-comparison.png" alt="dataset_comparison" style="width: 100%;" />
+  <img src="../../assets/images/TMI-dataset-comparison.png" alt="dataset_comparison" style="width: 100%;" />
 </p>
 
-Grasp-Anything offers *universality*, featuring a wide range of everyday objects in natural arrangements, unlike other benchmarks limited by object selection and controlled settings.
+CathAction offers several a large-scale dataset encompassing several endovascular intervention tasks such as segmentation, collision detection, and action understanding. To our knowledge, CathAction represents the largest and most realistic dataset specifically tailored for surgical equipment catheter and guidewire tasks.
 
 ## Statistics
 
 <p align="center">
-  <img src="../../assets/images/homepage-num-samples.png" alt="num-samples" style="width: 50%;" />
-  <img src="../../assets/images/homepage-num-objects.png" alt="num-objects" style="width: 49%;" />
+  <img src="../../assets/images/TMI_distribution_class.png" alt="num-samples" style="width: 50%;" />
+  <img src="../../assets/images/TMI_distribution_Duration.png" alt="num-objects" style="width: 49%;" />
 </p>
 
-Grasp-Anything significantly outperforms other datasets in terms of number of samples and number of categories.
+The distribution of action classes in both animal and phantom data of CathAction illustrates the variety of action segment lengths, showcasing the significant variability in segment duration.
 
 <p align="center">
-  <img src="../../assets/images/pos-tags.png" alt="pos-tags" style="width: 50%;" />
-  <img src="../../assets/images/num_cats.png" alt="num-cats" style="width: 48%;" />
+  <img src="../../assets/images/TMI_box_Statitics.png" alt="pos-tags" style="width: 100%;" />
 </p>
 
-The POS tags in our dataset are visualized in the figure above, highlighting a diverse vocabulary in scene descriptions. By comparing the object shape distributions between Grasp-Anything and Jacquard dataset, Grasp-Anything covers a wider area, suggesting a higher level of shape diversity.
-
-<p align="center">
-  <img src="../../assets/images/shape_visualization.png" alt="shape_visualization" style="width: 80%;" />
-</p>
-
+The adaptation property of our CathAction datasets shared between the phantom data and the animal data. This distinctive domain gap feature
+renders the CathAction dataset a formidable benchmark for evaluating domain adaptation.
 
 ## Stay Updated
 

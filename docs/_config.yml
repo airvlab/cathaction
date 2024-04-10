@@ -11,14 +11,14 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "CathAction-Dataset"
+title                    : "Grasp-Anything"
 title_separator          : "-"
 subtitle                 : ""
 name                     : &name "AI & Robot Vision Lab" # &name is a YAML anchor which can be *referenced later
 description              : &description "University of Liverpool."
-url                      : https://airvlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/cathdata" # the subpath of your site, e.g. "/blog"
-repository               : "airvlab/cathdata"
+url                      : https://vovantuan1999a.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "/cathactiondata" # the subpath of your site, e.g. "/blog"
+repository               : "vovantuan1999a/cathactiondata"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -122,13 +122,13 @@ footer:
    links:
      - label: "GitHub"
        icon: "fab fa-fw fa-github"
-       url: "https://github.com/airvlab"
+       url: "https://github.com/vovantuan1999a"
      - label: "Code"
        icon: "fas fa-fw fa-link"
-       url: "https://andvg3.github.io/"
+       url: "https://github.com/vovantuan1999a"
      - label: "Contact"
        icon: "fas fa-fw fa-envelope-square"
-       url: "https://www.csc.liv.ac.uk/~anguyen/"
+       url: "https://github.com/vovantuan1999a"
        
 #     - label: "Instagram"
 #       icon: "fab fa-fw fa-instagram"
