@@ -46,8 +46,8 @@ docs:
     children:
       - title: "Catheterization Action Understanding"
         url: /docs/catheteraction/
-      - title: "Grasp-Anything++"
-        url: /docs/grasp-anything-pp/
+      - title: "Collision Detection"
+        url: /docs/Collision_Detection/
   #    - title: "Grasp-Anything-6D"
   #      url: /docs/grasp-anything-6d/
   #     - title: "Upgrading"
