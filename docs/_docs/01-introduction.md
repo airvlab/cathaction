@@ -15,7 +15,7 @@ Welcome to Endovascular Intervention CathAction project! We present CathAction, 
 ## Data collection setup
 <p align="center">
   <img src="../../assets/images/TMI_collect_phantom.png" alt="data_pipeline" style="width: 50%;" />
-  <img src="../../assets/images/TMI_scanner_collect.png" alt="data_pipeline" style="width: 49%;" />
+  <img src="../../assets/images/TMI_scanner_collect.png" alt="data_pipeline" style="width: 50%;" />
 </p>
 
 The data collection setup with human silicon phantoms in the operating room
