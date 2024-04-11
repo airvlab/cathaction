@@ -34,7 +34,7 @@ CathAction offers several a large-scale dataset encompassing several endovascula
 </p>
 
 <p align="center">
-  <img src="../../assets/images/TMI_distribution_class.png" alt="num-samples" style="width: 100%;" />
+  <img src="../../assets/images/TMI_distribution_Duration.png" alt="num-samples" style="width: 100%;" />
 </p>
 
 The distribution of action classes in both animal and phantom data of CathAction illustrates the variety of action segment lengths, showcasing the significant variability in segment duration.
