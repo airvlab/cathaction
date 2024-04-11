@@ -42,10 +42,10 @@ docs:
         url: /docs/code/
       - title: "Download"
         url: /docs/download/
-  - title: Datasets
+  - title: CathAction Datasets
     children:
-      - title: "Grasp-Anything"
-        url: /docs/grasp-anything/
+      - title: "Catheterization Action Understanding"
+        url: /docs/catheteraction/
       - title: "Grasp-Anything++"
         url: /docs/grasp-anything-pp/
   #    - title: "Grasp-Anything-6D"
