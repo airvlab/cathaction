@@ -4,12 +4,12 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/grasp-anything-teaser.png
+  overlay_image: /assets/images/TMI_intro.png
   actions:
     - label: "<i class='fas fa-download'></i> Download"
       url: "/docs/download/"
 excerpt: >
-  Large-scale Grasp Dataset from Foundation Models<br />
+  A Benchmark for Endovascular Intervention Understandings <br />
   <!--small><a href="https://github.com/andvg3/Grasp-Anything">Latest release (TBD)</a></small-->
 feature_row:
   - image_path: /assets/images/homepage-num-samples.png
