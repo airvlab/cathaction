@@ -22,7 +22,7 @@ feature_row:
   - image_path: /assets/images/TMI_ant_vls.png
     alt: "zero shot"
     title: "Catheterization Understanding Task"
-    excerpt: "Our dataset benchmark key tasks in action, including catheterization anticipation, recognition."
+    excerpt: "Our dataset benchmark key tasks in endovascular interventions action, including catheterization anticipation and recognition."
     url: "/docs/catheteraction/"
     btn_class: "btn--primary"
     btn_label: "Learn more"
