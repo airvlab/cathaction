@@ -42,12 +42,14 @@ docs:
         url: /docs/code/
       - title: "Download"
         url: /docs/download/
-  - title: CathAction Datasets
+  - title: Task
     children:
-      - title: "Catheterization Action Understanding"
+      - title: "Action Understanding"
         url: /docs/catheteraction/
       - title: "Collision Detection"
         url: /docs/Collision_Detection/
+      - title: "Catheterization Segmentation"
+        url: /docs/Segmentation/
   #    - title: "Grasp-Anything-6D"
   #      url: /docs/grasp-anything-6d/
   #     - title: "Upgrading"
