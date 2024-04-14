@@ -33,6 +33,13 @@ feature_row:
     url: "/docs/Collision_Detection/"
     btn_class: "btn--primary"
     btn_label: "Learn more"     
+  - image_path: /assets/images/TMI_intro_homepage.png
+    alt: "language-driven grasp"
+    title: "Catheter and Guidewire Segmentation Task"
+    excerpt: "Segmenting catheters and guidewires is a common task in endovascular procedures. Our dataset provides benchmarks for this segmentation from the background."
+    url: "/docs/Segmentation/"
+    btn_class: "btn--primary"
+    btn_label: "Learn more"     
 ---
 
 {% include feature_row %}
