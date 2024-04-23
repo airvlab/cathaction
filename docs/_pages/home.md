@@ -4,7 +4,7 @@ permalink: /
 hidden: true
 header:
   overlay_color: "#5e616c"
-  overlay_image: /assets/images/TMI_teaser-5.png
+  overlay_image: /assets/images/TMI_teaser-2.png
   actions:
     - label: "<i class='fas fa-download'></i> Download"
       url: "/docs/download/"
