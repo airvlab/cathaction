@@ -46,6 +46,14 @@ The distribution of action classes in both animal and phantom data of CathAction
 The adaptation property of our CathAction datasets shared between the phantom data and the animal data. This distinctive domain gap feature
 renders the CathAction dataset a formidable benchmark for evaluating domain adaptation.
 
+
+## Demonstration
+<video width="100%" controls>
+  <source src="https://github.com/airvlab/grasp-anything/assets/140178004/7afc471e-385d-4aff-9940-a87fc3fe034e" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 ## Stay Updated
 
 This website will be continuously updated with the latest papers, datasets, and code. Please check back regularly for updates.
