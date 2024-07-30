@@ -23,7 +23,7 @@ The data were collected using a human silicon phantom in a operating room.
 
 ## Dataset Comparison
 <p align="center">
-  <img src="../../assets/images/TMI-dataset-comparison.png" alt="dataset_comparison" style="width: 100%;" />
+  <img src="../../assets/images/dataset_compare.jpg" alt="dataset_comparison" style="width: 100%;" />
 </p>
 
 CathAction represents one of the largest dataset specifically tailored for catheter and guidewire tasks.
