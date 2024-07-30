@@ -6,7 +6,7 @@ redirect_from:
   - /theme-setup/
 toc: true
 ---
-Welcome to Endovascular Intervention CathAction project! We present CathAction, a <strong>large-scale<strong> dataset for endovascular intervention
+We present CathAction, a <strong>large-scale<strong> dataset for endovascular intervention.
 
 <p align="center">
   <img src="../../assets/images/TMI_intro.png" alt="samples" style="width: 100%;" />
@@ -53,7 +53,3 @@ renders the CathAction dataset a formidable benchmark for evaluating domain adap
   Your browser does not support the video tag.
 </video>
 
-
-## Stay Updated
-
-This website will be continuously updated with the latest papers, datasets, and code. Please check back regularly for updates.
