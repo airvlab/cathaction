@@ -1,28 +1,13 @@
 ---
-layout: splash
+title: "CathAction Dataset"
 permalink: /
-hidden: true
-feature_row:
-  - image_path: /assets/images/cathaction_segmentation.jpg
-    alt: "Segmentation"
-    title: "Segmentation"
-    excerpt: "Our CathAction dataset provides benchmarks for catheter and guidewire segmentation."
-    url: "/docs/Segmentation/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"     
-  - image_path: /assets/images/cathaction_collision.jpg
-    alt: "language-driven grasp"
-    title: "Collision Detection"
-    excerpt: "Our dataset defines the collision detection task for endovascular interventions."
-    url: "/docs/Collision_Detection/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"  
-  - image_path: /assets/images/cathaction_anticipation.jpg
-    alt: "Action Understanding"
-    title: "Action Understanding"
-    excerpt: "Our dataset benchmarks catheterization anticipation and recognition."
-    url: "/docs/catheteraction/"
-    btn_class: "btn--primary"
-    btn_label: "Learn more"
+date: 2011-06-23T18:38:52+00:00
 ---
-{% include feature_row %}
+
+Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
+
+## Demonstration
+<video width="100%" controls>
+  <source src="https://github.com/airvlab/grasp-anything/assets/140178004/7afc471e-385d-4aff-9940-a87fc3fe034e" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
