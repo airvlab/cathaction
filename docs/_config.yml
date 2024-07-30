@@ -104,18 +104,12 @@ author:
   #location         : ""
   links:
     - label: "Contact"
-       icon: "fas fa-fw fa-link"
-       url: "https://www.csc.liv.ac.uk/~anguyen/"
-    # - label: "Twitter"
-    #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/mmistakes"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.csc.liv.ac.uk/~anguyen/"
     - label: "Code"
-       icon: "fab fa-fw fa-github"
-       url: "https://github.com/airvlab/"
-    # - label: "Instagram"
-    #   icon: "fab fa-fw fa-instagram"
-    #   url: "https://instagram.com/mmistakes"
-
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/airvlab/"
+ 
 
 # Site Footer
 footer:
