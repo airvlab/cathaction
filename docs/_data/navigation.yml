@@ -44,12 +44,13 @@ docs:
         url: /docs/download/
   - title: Task
     children:
-      - title: "Action Understanding"
-        url: /docs/catheteraction/
+      - title: "Segmentation"
+        url: /docs/segmentation/
       - title: "Collision Detection"
-        url: /docs/Collision_Detection/
-      - title: "Catheterization Segmentation"
-        url: /docs/Segmentation/
+        url: /docs/collision-detection/
+      - title: "Action Understanding"
+        url: /docs/action-understanding/
+
   #    - title: "Grasp-Anything-6D"
   #      url: /docs/grasp-anything-6d/
   #     - title: "Upgrading"
