@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /docs/introduction/
+permalink: /
 hidden: true
 feature_row:
   - image_path: /assets/images/cathaction_segmentation.jpg
