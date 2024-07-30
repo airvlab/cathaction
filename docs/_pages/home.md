@@ -1,12 +1,12 @@
 ---
 layout: splash
-permalink: /
+permalink: /docs/introduction/
 hidden: true
 feature_row:
   - image_path: /assets/images/cathaction_segmentation.jpg
     alt: "Segmentation"
-    title: "Catheter and Guidewire Segmentation"
-    excerpt: "Segmenting catheters and guidewires is a common task in endovascular procedures. Our dataset provides benchmarks for this segmentation from the background."
+    title: "Segmentation"
+    excerpt: "Our CathAction dataset provides benchmarks for catheter and guidewire segmentation."
     url: "/docs/Segmentation/"
     btn_class: "btn--primary"
     btn_label: "Learn more"     
@@ -18,8 +18,8 @@ feature_row:
     btn_class: "btn--primary"
     btn_label: "Learn more"  
   - image_path: /assets/images/cathaction_anticipation.jpg
-    alt: "Catheterization Understanding"
-    title: "Catheterization Understanding"
+    alt: "Action Understanding"
+    title: "Action Understanding"
     excerpt: "Our dataset benchmarks catheterization anticipation and recognition."
     url: "/docs/catheteraction/"
     btn_class: "btn--primary"
