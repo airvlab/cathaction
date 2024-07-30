@@ -98,10 +98,10 @@ analytics:
 
 # Site Author
 author:
-  name             : *name # *name is a YAML reference pointing to the &anchor earlier
-  avatar           : ""
-  bio              : "University of Liverpool"
-  location         : "United Kingdom"
+  name             : "CathAction" # *name is a YAML reference pointing to the &anchor earlier
+  avatar           : "/assets/images/cathaction_logo.png"
+  #bio              : ""
+  #location         : ""
   links:
     # - label: "Made Mistakes"
     #   icon: "fas fa-fw fa-link"
