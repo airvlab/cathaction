@@ -4,8 +4,6 @@ permalink: /docs/download/
 excerpt: "Download."
 ---
 
-License: [Attribution-NonCommercial-ShareAlike 4.0 International](https://github.com/airvlab/cathdata/blob/tuan/LICENSE)
+All of our datasets are released under [CC BY-NC-SA](https://github.com/airvlab/cathdata/blob/main/LICENSE) license.
 
-## Data access (under construction, please DO NOT use)
-
-<script type="text/javascript" src="https://form.jotform.com/241132680996058"><script
+Please fill out [this form](https://docs.google.com/forms/d/1Gac_j310KryOc3Ld708_fljOlhK0k-FM13qYt4pAJv0/) to download the datasets.
