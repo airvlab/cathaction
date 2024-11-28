@@ -108,18 +108,18 @@ author:
       url: "https://www.csc.liv.ac.uk/~anguyen/"
     - label: "Code"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/vovantuan1999a/CathAction_Dataset"
+      url: "https://github.com/airvlab/cathaction"
  
 
 # Site Footer
 footer:
    links:
-     - label: "GitHub"
+     - label: "CathSim"
        icon: "fab fa-fw fa-github"
-       url: "https://github.com/airvlab"
+       url: "https://airvlab.github.io/cathsim/"
      - label: "Code"
        icon: "fas fa-fw fa-link"
-       url: "https://github.com/vovantuan1999a/CathAction_Dataset"
+       url: "https://github.com/airvlab/cathaction"
      - label: "Contact"
        icon: "fas fa-fw fa-envelope-square"
        url: "https://www.csc.liv.ac.uk/~anguyen/"
