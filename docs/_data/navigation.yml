@@ -22,10 +22,8 @@ foo:
 main:
   - title: "Introduction"
     url: /docs/introduction/
-  - title: "Papers"
+  - title: "Code&Papers"
     url: /docs/paper/
-  - title: "Code"
-    url: /docs/code/
   - title: "Download"
     url: /docs/download/
 
@@ -36,13 +34,11 @@ docs:
     children:
       - title: "Introduction"
         url: /docs/introduction/
-      - title: "Papers"
+      - title: "Code&Papers"
         url: /docs/paper/
-      - title: "Code"
-        url: /docs/code/
       - title: "Download"
         url: /docs/download/
-  - title: Task
+  - title: Tasks
     children:
       - title: "Segmentation"
         url: /docs/segmentation/
