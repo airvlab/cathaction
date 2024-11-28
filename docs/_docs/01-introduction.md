@@ -19,7 +19,7 @@ CathAction is a large-scale dataset for endovascular intervention.
   <img src="../../assets/images/TMI_scanner_collect.png" alt="data_pipeline" style="width: 49%;" />
 </p>
 
-The data were collected using a human silicon phantom in a operating room.
+The data were collected using human silicon phantoms in a operating room.
 
 ## Dataset Comparison
 <p align="center">
