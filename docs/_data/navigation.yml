@@ -22,9 +22,9 @@ foo:
 main:
   - title: "Introduction"
     url: /docs/introduction/
-  - title: "Code&Papers"
-    url: /docs/paper/
-  - title: "Download"
+  - title: "Tasks"
+    url: /docs/tasks/
+  - title: "Code&Download"
     url: /docs/download/
 
 
@@ -34,9 +34,9 @@ docs:
     children:
       - title: "Introduction"
         url: /docs/introduction/
-      - title: "Code&Papers"
-        url: /docs/paper/
-      - title: "Download"
+      - title: "Tasks"
+        url: /docs/tasks/
+      - title: "Code&Download"
         url: /docs/download/
   - title: Tasks
     children:
