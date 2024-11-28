@@ -110,7 +110,7 @@ author:
       icon: "fas fa-fw fa-link"
       url: "https://airvlab.github.io/cathsim/"
     - label: "Guide3D"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-fw fa-link"
       url: "https://airvlab.github.io/guide3d/"
         
  
