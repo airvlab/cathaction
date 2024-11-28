@@ -103,12 +103,16 @@ author:
   bio              : "Catheterization Dataset"
   #location         : ""
   links:
-    - label: "Contact"
-      icon: "fas fa-fw fa-link"
-      url: "https://www.csc.liv.ac.uk/~anguyen/"
     - label: "Code"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/airvlab/cathaction"
+    - label: "CathSim"
+      icon: "fas fa-fw fa-link"
+      url: "https://airvlab.github.io/cathsim/"
+    - label: "Guide3D Dataset"
+      icon: "fas fa-fw fa-link"
+      url: "https://airvlab.github.io/guide3d/"
+        
  
 
 # Site Footer
