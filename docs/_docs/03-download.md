@@ -9,7 +9,9 @@ The code is available at [this repository](https://github.com/airvlab/cathaction
 
 # Download
 CathAction is released under [CC BY-NC-SA](https://github.com/airvlab/cathaction/blob/main/LICENSE) license.
+
 Please fill out [this form](https://docs.google.com/forms/d/1wFHbMSSRRivsnxPxJzbiyLIpi02H8szzY13BkbkF6fY) to download the datasets.
+
 If you are using our dataset, please cite us:
 
 ```bib
